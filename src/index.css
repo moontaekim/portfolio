@@ -14,8 +14,8 @@ code {
 }
 
 
-.flex-container > .right{
+/* .flex-container > .right{
   display:flex;
   flex-direction:row;
   width:20%;
-}
+} */
