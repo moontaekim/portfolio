@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { Image, TextArea } from 'semantic-ui-react';
 
 const StyledProjectsPage = styled.div`
-  height: 100%;
+  height: 100vh;
   display:flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -12,6 +12,7 @@ const StyledProjectsPage = styled.div`
 const StyledImage = styled(Image)`
 &&&{
   margin-top: 50px;
+  width: 30vw;
 }
 `
 const StyledImageContainer = styled.div`
