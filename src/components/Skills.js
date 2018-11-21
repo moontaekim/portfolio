@@ -18,6 +18,7 @@ const StyledImg = styled.i`
 `
 const StyledCaption = styled.span`
   display:block;
+  color:white;
 `
 const StyledItem = styled.div`
     text-align: center;
