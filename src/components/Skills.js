@@ -152,8 +152,8 @@ export default class Skills extends Component {
               <StyledDot />
             </StyledCaption>
           </StyledItem>
-
-          <StyledImg className="devicon-d3js-plain colored">
+          <StyledItem>
+          <StyledImg className="devicon-d3js-plain colored"></StyledImg>
             <StyledCaption>D3</StyledCaption>
             <StyledCaption>
               <StyledDotColor />
@@ -162,8 +162,7 @@ export default class Skills extends Component {
               <StyledDot />
               <StyledDot />
             </StyledCaption>
-          </StyledImg>
-
+            </StyledItem>
 
         </StyledSkills>
       </StyledSkillsPage>
