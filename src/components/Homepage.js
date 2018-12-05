@@ -46,7 +46,10 @@ export default class Homepage extends Component {
         <StyledLinkIcon href="mailto:moontae1992@email.com">
         <i className='mail link huge icon'/>
         </StyledLinkIcon>
-        
+        <StyledLinkIcon target='_blank' href="https://soundcloud.com/user-444365396">
+        <i className='soundcloud link huge icon'/>
+        </StyledLinkIcon>
+
         </div>
       </StyledHomepage>
     )
